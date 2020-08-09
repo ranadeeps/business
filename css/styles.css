@@ -1,0 +1,14 @@
+*{
+	position: relative;
+}
+#navigate{
+	background-color: #00FFFF;
+	margin: 25px;
+}
+.rname{
+	margin-right: 100px;
+	float: right;
+	color: green;
+}
+#heading{
+}
